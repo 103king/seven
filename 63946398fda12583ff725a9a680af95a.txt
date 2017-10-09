@@ -1,0 +1,19 @@
+http://api.m.mtime.cn/PageSubArea/TrailerList.api
+GET
+0
+HTTP/1.1 200 OK
+14
+nnServer: nginx
+Date: Thu, 28 Sep 2017 12:27:47 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 7507
+Connection: close
+X-Powered-By: ASP.NET31
+x-server: web31
+X-AspNet-Version: 2.0.50727
+Content-Encoding: gzip
+X-Frame-Options: SAMEORIGIN
+Cache-Control: private
+Expires: Wed, 28 Sep 2016 12:27:46 GMT
+OkHttp-Sent-Millis: 1506601671898
+OkHttp-Received-Millis: 1506601672689
